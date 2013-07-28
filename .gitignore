@@ -1,0 +1,6 @@
+*.pyc
+/project/settings/local.py
+/project/settings/secret.py
+/project/static/
+/project/media/
+/dev.db
